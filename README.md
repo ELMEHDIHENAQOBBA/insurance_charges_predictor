@@ -1,2 +1,10 @@
-# insurance_charges_predictor
-Medical Insurance Charges Predictor 💰 A Streamlit-powered ML app that predicts insurance charges based on age, BMI, children, and smoking status. Trained on the Medical Cost Personal Dataset (Kaggle) using XGBoost. 🚀  🔹 Tech: Python, Streamlit, Pandas 🔹 Features: Fast, user-friendly, real-time predictions!
+Medical Insurance Charges Predictor 💰
+This Streamlit-powered web app predicts medical insurance charges based on user inputs like age, BMI, number of children, and smoking status. It uses a machine learning model trained on the Medical Cost Personal Dataset from Kaggle.
+
+🔹 Technologies: Python, Streamlit, XGBoost, Pandas, NumPy
+🔹 Features:
+✅ User-friendly UI for inputting details
+✅ Real-time prediction of insurance costs
+✅ Deployed for interactive use
+
+🚀 Try it out and get an instant estimate of your insurance charges!
